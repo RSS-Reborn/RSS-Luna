@@ -20,5 +20,5 @@ See the [RSS-Reborn Hub](https://github.com/RSS-Reborn/RSS-Reborn) for more info
 
 - 32k - 334m per pixel - 1.93 gb Uncompressed
 
-- 16k - 667m per pixel - X gb Uncompressed
+- 16k - 667m per pixel - 0.51 gb Uncompressed
 
