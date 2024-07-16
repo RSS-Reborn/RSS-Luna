@@ -1,5 +1,5 @@
 # RSS-Luna
-This repository contains 92k, 64k, 42k, 32k and 16k textures for Luna.
+This repository contains 184k, 92k, 64k, 42k, 32k and 16k textures for Luna.
 ![screenshot2360](https://github.com/RSS-Reborn/RSS-Luna/assets/77298148/4f9a2920-5b4f-4793-bc9a-4c5ce3b399f9)
 ![screenshot2206](https://github.com/RSS-Reborn/RSS-Luna/assets/77298148/e10e13b3-6f82-4e2d-8d96-0756a65be0d2)
 ![screenshot2209](https://github.com/RSS-Reborn/RSS-Luna/assets/77298148/97c9316a-27fe-45de-a873-ab736e546d20)
@@ -11,6 +11,8 @@ See the [RSS-Reborn Hub](https://github.com/RSS-Reborn/RSS-Reborn) for more info
 ---
 
 ### Spatial Resolution Information:
+
+- 184k - 59m per pixel - 29.2 gb Uncompressed
 
 - 92k - 119m per pixel - 11.69 gb Uncompressed
 
